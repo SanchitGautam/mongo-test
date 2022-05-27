@@ -1,0 +1,7 @@
+non_pii_keys:
+    user:
+    - _id
+    - name
+    emp:
+    - _id
+    - name
